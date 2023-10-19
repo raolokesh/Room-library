@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">room library</string>
+    <string name="item_name_hint">Shopping Item Name</string>
+    <string name="item_price_hint">Price of Item</string>
+</resources>
